@@ -1,0 +1,4 @@
+# Optional capabilities (install only if needed)
+yara-python>=4.5,<5
+Pillow>=10,<12
+pyzbar>=0.1.9,<1

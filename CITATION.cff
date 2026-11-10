@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use PhishGuard in academic work, please cite the repository and its release."
+title: "PhishGuard "
+type: software
+license: MIT
+repository-code: "https://github.com/vanaditarsharma/PhishGuard"

@@ -1,0 +1,9 @@
+From: Campus Updates <updates@university.example.edu>
+To: student@example.org
+Subject: Library maintenance schedule
+Date: Tue, 10 Nov 2026 10:05:00 +0000
+Authentication-Results: mx.example.org; spf=pass; dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+The campus library will be closed on Saturday for scheduled maintenance. Normal hours resume on Monday. No action is required.

@@ -1,0 +1,38 @@
+.venv/
+venv/
+env/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.py[cod]
+*$py.class
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local databases and generated artifacts
+*.db
+*.sqlite
+*.sqlite3
+backend/reports/*
+!backend/reports/.gitkeep
+backend/ml/artifacts/*
+!backend/ml/artifacts/.gitkeep
+datasets/manifest.csv
+datasets/curated*.csv
+datasets/grouped*.csv
+datasets/training*.csv
+datasets/*_redacted*.csv
+*.log
+
+# Editor / operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

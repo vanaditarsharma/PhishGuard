@@ -1,0 +1,10 @@
+From: Finance Director <director@company-example.test>
+Reply-To: payments@external-mail.test
+To: finance@example.org
+Subject: Confidential urgent invoice payment
+Date: Tue, 10 Nov 2026 10:02:00 +0000
+Authentication-Results: mx.example.org; spf=softfail; dkim=pass; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Please arrange the invoice payment today. We changed our bank account details. This is urgent and confidential. Do not discuss this outside the team.
